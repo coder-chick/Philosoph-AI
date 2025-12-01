@@ -14,7 +14,7 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase (client-side)
-let app;
+let app: any = null;
 if (typeof window !== 'undefined' && !getApps().length) {
   app = initializeApp(firebaseConfig);
 } else if (getApps().length > 0) {
