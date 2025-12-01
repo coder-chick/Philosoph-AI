@@ -1,0 +1,17 @@
+{
+  "ethics": ["aristotle", "kant", "nietzsche", "confucius", "epicurus"],
+  "justice": ["plato", "aristotle", "confucius"],
+  "knowledge": ["plato", "socrates", "descartes"],
+  "reality": ["plato", "aristotle", "lao-tzu"],
+  "meaning": ["nietzsche", "epicurus", "marcus-aurelius", "lao-tzu"],
+  "free_will": ["aristotle", "nietzsche", "marcus-aurelius"],
+  "happiness": ["aristotle", "epicurus", "confucius", "lao-tzu"],
+  "self": ["socrates", "descartes", "lao-tzu"],
+  "emotion": ["epicurus", "marcus-aurelius", "nietzsche"],
+  "reason": ["socrates", "plato", "aristotle"],
+  "death": ["socrates", "epicurus", "marcus-aurelius"],
+  "power": ["nietzsche", "plato", "confucius"],
+  "beauty": ["plato", "aristotle"],
+  "suffering": ["epicurus", "marcus-aurelius", "nietzsche"],
+  "friendship": ["aristotle", "epicurus", "confucius"]
+}

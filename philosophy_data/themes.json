@@ -1,0 +1,62 @@
+{
+  "ethics": {
+    "keywords": ["morality", "virtue", "good", "evil", "right", "wrong", "moral", "ethical", "ought", "should"],
+    "description": "Questions about right and wrong, moral principles, and ethical behavior"
+  },
+  "justice": {
+    "keywords": ["justice", "fair", "fairness", "equality", "rights", "law", "society", "social"],
+    "description": "Questions about fairness, social order, and political philosophy"
+  },
+  "knowledge": {
+    "keywords": ["knowledge", "know", "truth", "belief", "understanding", "certainty", "doubt", "learn"],
+    "description": "Questions about the nature and limits of human knowledge"
+  },
+  "reality": {
+    "keywords": ["reality", "exist", "existence", "being", "nature", "universe", "world", "metaphysics"],
+    "description": "Questions about the fundamental nature of reality and existence"
+  },
+  "meaning": {
+    "keywords": ["meaning", "purpose", "life", "why", "point", "significance", "fulfillment"],
+    "description": "Questions about the meaning and purpose of life"
+  },
+  "free_will": {
+    "keywords": ["free will", "choice", "freedom", "determinism", "fate", "destiny", "agency"],
+    "description": "Questions about human freedom and determinism"
+  },
+  "happiness": {
+    "keywords": ["happiness", "joy", "pleasure", "contentment", "well-being", "eudaimonia", "flourishing"],
+    "description": "Questions about the nature of happiness and the good life"
+  },
+  "self": {
+    "keywords": ["self", "identity", "consciousness", "mind", "soul", "person", "who am i"],
+    "description": "Questions about personal identity and the nature of the self"
+  },
+  "emotion": {
+    "keywords": ["emotion", "feeling", "passion", "desire", "anger", "fear", "love", "hate"],
+    "description": "Questions about emotions and their role in human life"
+  },
+  "reason": {
+    "keywords": ["reason", "logic", "rational", "thinking", "argument", "proof"],
+    "description": "Questions about rationality and logical thinking"
+  },
+  "death": {
+    "keywords": ["death", "mortality", "dying", "afterlife", "immortality"],
+    "description": "Questions about death and mortality"
+  },
+  "power": {
+    "keywords": ["power", "authority", "control", "dominance", "strength", "politics"],
+    "description": "Questions about power, authority, and political control"
+  },
+  "beauty": {
+    "keywords": ["beauty", "art", "aesthetic", "ugly", "taste", "sublime"],
+    "description": "Questions about beauty, art, and aesthetics"
+  },
+  "suffering": {
+    "keywords": ["suffering", "pain", "misery", "hardship", "adversity", "struggle"],
+    "description": "Questions about suffering and how to deal with hardship"
+  },
+  "friendship": {
+    "keywords": ["friendship", "friend", "relationship", "companion", "bond"],
+    "description": "Questions about friendship and human relationships"
+  }
+}

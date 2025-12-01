@@ -1,0 +1,27 @@
+{
+  "ancient_greece": {
+    "name": "Ancient Greece",
+    "philosophers": ["socrates", "plato", "aristotle", "epicurus"],
+    "period": "5th-3rd century BCE"
+  },
+  "roman_latin": {
+    "name": "Roman / Latin",
+    "philosophers": ["marcus-aurelius"],
+    "period": "1st-2nd century CE"
+  },
+  "german_idealists": {
+    "name": "German Idealists",
+    "philosophers": ["nietzsche"],
+    "period": "19th century"
+  },
+  "east_asian": {
+    "name": "East Asian Traditions",
+    "philosophers": ["confucius", "lao-tzu"],
+    "period": "6th-5th century BCE"
+  },
+  "all": {
+    "name": "All Traditions",
+    "philosophers": ["socrates", "plato", "aristotle", "epicurus", "marcus-aurelius", "nietzsche", "confucius", "lao-tzu"],
+    "period": "All periods"
+  }
+}

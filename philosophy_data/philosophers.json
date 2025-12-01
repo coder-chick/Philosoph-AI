@@ -1,0 +1,58 @@
+{
+  "socrates": {
+    "id": "socrates",
+    "name": "Socrates",
+    "century": -5,
+    "region": "ancient_greece",
+    "themes": ["ethics", "knowledge", "virtue", "identity"]
+  },
+  "plato": {
+    "id": "plato",
+    "name": "Plato",
+    "century": -4,
+    "region": "ancient_greece",
+    "themes": ["justice", "reality", "knowledge", "ethics", "politics"]
+  },
+  "aristotle": {
+    "id": "aristotle",
+    "name": "Aristotle",
+    "century": -4,
+    "region": "ancient_greece",
+    "themes": ["ethics", "happiness", "logic", "politics", "meaning"]
+  },
+  "epicurus": {
+    "id": "epicurus",
+    "name": "Epicurus",
+    "century": -3,
+    "region": "ancient_greece",
+    "themes": ["happiness", "pleasure", "emotion", "meaning"]
+  },
+  "marcus-aurelius": {
+    "id": "marcus-aurelius",
+    "name": "Marcus Aurelius",
+    "century": 2,
+    "region": "roman_latin",
+    "themes": ["ethics", "duty", "emotion", "meaning", "free_will"]
+  },
+  "nietzsche": {
+    "id": "nietzsche",
+    "name": "Friedrich Nietzsche",
+    "century": 19,
+    "region": "german_idealists",
+    "themes": ["meaning", "morality", "free_will", "power", "identity"]
+  },
+  "confucius": {
+    "id": "confucius",
+    "name": "Confucius",
+    "century": -6,
+    "region": "east_asian",
+    "themes": ["ethics", "society", "duty", "virtue", "politics"]
+  },
+  "lao-tzu": {
+    "id": "lao-tzu",
+    "name": "Lao Tzu",
+    "century": -6,
+    "region": "east_asian",
+    "themes": ["meaning", "simplicity", "nature", "harmony"]
+  }
+}
