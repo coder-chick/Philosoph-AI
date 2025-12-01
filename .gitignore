@@ -41,3 +41,6 @@ firestore-debug.log
 # Google Cloud
 service-account-key.json
 gcloud-key.json
+google-credentials.json
+firebase-admin-sdk.json
+serviceAccountKey.json
